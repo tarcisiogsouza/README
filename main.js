@@ -2,7 +2,7 @@ let minhaImagem = document.querySelector('img');
 
 minhaImagem.onclick = function() {
     let meuSrc = minhaImagem.getAttribute('src');
-    if(meuSrc === 'https://tarcisiogsouza.github.io/bronzodias/bronzodia.png') {
+    if(link href meuSrc === 'https://tarcisiogsouza.github.io/bronzodias/bronzodia.png') {
       minhaImagem.setAttribute (link href 'src','https://tarcisiogsouza.github.io/bronzodias/meme1.jpg');
     } else {
       minhaImagem.setAttribute (link href 'src','https://tarcisiogsouza.github.io/bronzodias/bronzodia.png');
