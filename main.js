@@ -17,7 +17,7 @@ function defineNomeUsuario() {
     defineNomeUsuario();
   } else {
     localStorage.setItem('nome', meuNome);
-    meuCabecalho.innerHTML = 'BRONZÓDIA >>>  ' + meuNome;
+    meuCabecalho.innerHTML = 'BRONZÓDIA >' + meuNome;
   }
 }
   meuBotao.onclick = function() { defineNomeUsuario();
