@@ -2,7 +2,7 @@ html {font-size: 10px; /* px significa "pixels": o tamanho da fonte base é agor
   font-family: 'Playfair Display', serif; /* este deve ser o nome da fonte que você obteve no Google Fonts */
 }
 h1 {
-  font-size: 60px;
+  font-size: 100px;
   text-align: center;
   margin: 0;
   padding: 20px 0;
