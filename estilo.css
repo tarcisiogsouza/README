@@ -1,5 +1,5 @@
-html {font-size: 10px; /* px significa "pixels": o tamanho da fonte base é agora de 10 pixels */
-  font-family: 'Playfair Display', serif; /* este deve ser o nome da fonte que você obteve no Google Fonts */
+html {font-size: 10px;
+  font-family: 'Playfair Display', serif;
 }
 h1 {font-size: 100px;
   text-align: center;
